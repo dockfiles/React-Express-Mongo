@@ -4,7 +4,7 @@
 
 You can open this sample in the Dev Environments feature of Docker Desktop version 4.12 or later.
 
-[Open in Docker Dev Environments <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/react-express-mongodb)
+[Open in Docker Dev Environments <img src="https://user-images.githubusercontent.com/110657529/209977110-389bcf78-85d1-4b36-8de8-1d63229bd8ab.png" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/react-express-mongodb)
 
 ### React application with a NodeJS backend and a MongoDB database
 
@@ -21,7 +21,7 @@ Project structure:
 └── README.md
 ```
 
-[_compose.yaml_](compose.yaml)
+compose.yaml
 ```
 services:
   frontend:
@@ -81,7 +81,7 @@ a1f321f06490        mongo:4.2.0                         "docker-entrypoint.s…"
 
 After the application starts, navigate to `http://localhost:3000` in your web browser.
 
-![page](./output.png)
+![image](https://user-images.githubusercontent.com/110657529/209977076-3db907b1-5506-49d2-a7f4-19bab4935835.png)
 
 Stop and remove the containers
 ```
