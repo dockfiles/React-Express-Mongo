@@ -81,7 +81,7 @@ a1f321f06490        mongo:4.2.0                         "docker-entrypoint.s…"
 
 After the application starts, navigate to `http://localhost:3000` in your web browser.
 
-![image](https://user-images.githubusercontent.com/110657529/209977076-3db907b1-5506-49d2-a7f4-19bab4935835.png)
+<img src="https://user-images.githubusercontent.com/110657529/209977496-8e1e5d51-6d0c-4a99-935a-b8e30be44640.png" alt="screenshot localhost"/>
 
 Stop and remove the containers
 ```
